@@ -2,6 +2,10 @@
 
 A colorful icon pack for KOReader and SimpleUI, designed for color e-ink displays.
 
+![Mijn Afbeelding](screenshot 1.png)
+![Mijn Afbeelding](screenshot 2.png)
+![Mijn Afbeelding](screenshot 3.png)
+
 **Contents**
 - 102 KOReader icons
 - 47 SimpleUI icons (44 currently accepted pack filenames + 3 forward-compatibility action icons)
