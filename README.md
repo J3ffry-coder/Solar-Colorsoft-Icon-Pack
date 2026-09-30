@@ -2,9 +2,9 @@
 
 A colorful icon pack for KOReader and SimpleUI, designed for color e-ink displays.
 
-![Screenshot 1]([screenshot 1.png](https://github.com/J3ffry-coder/Solar-Colorsoft-Icon-Pack/blob/main/screenshot%201.png))
-![Screenshot 2]([screenshot 2.png](https://github.com/J3ffry-coder/Solar-Colorsoft-Icon-Pack/blob/main/screenshot%202.png))
-![Screenshot 3]([screenshot 3.png](https://github.com/J3ffry-coder/Solar-Colorsoft-Icon-Pack/blob/main/screenshot%203.png))
+![Screenshot 1](screenshot-1.png)
+![Screenshot 2](screenshot-2.png)
+![Screenshot 3](screenshot-3.png)
 
 **Contents**
 - 102 KOReader icons
