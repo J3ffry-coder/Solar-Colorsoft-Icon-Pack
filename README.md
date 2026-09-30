@@ -2,9 +2,13 @@
 
 A colorful icon pack for KOReader and SimpleUI, designed for color e-ink displays.
 
-![Screenshot 1](screenshot-1.png)
-![Screenshot 2](screenshot-2.png)
-![Screenshot 3](screenshot-3.png)
+<img src="screenshot-1.png" width="300">
+
+
+<img src="screenshot-2.png" width="300">
+
+
+<img src="screenshot-3.png" width="300">
 
 **Contents**
 - 102 KOReader icons
