@@ -13,7 +13,7 @@ A colorful icon pack for KOReader and SimpleUI, designed for color e-ink display
 - 47 SimpleUI icons (44 currently accepted pack filenames + 3 forward-compatibility action icons)
 - Matching SimpleUI pack included as Solar Colorsoft SimpleUI.zip
 
-**SimpleUI compatibility note2**
+**SimpleUI compatibility note**
 - The included SimpleUI folder contains all 44 icon-pack filenames accepted by the supplied SimpleUI importer.
 - Three additional action icons are retained for forward compatibility because their actions/settings already exist in the supplied SimpleUI code: sui_action_recent.svg, sui_action_random_document.svg, and sui_action_wifi_toggle_off.svg.
 
