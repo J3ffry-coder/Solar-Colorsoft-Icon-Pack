@@ -10,11 +10,11 @@ A colorful icon pack for KOReader and SimpleUI, designed for color e-ink display
 
 ### Install
 
-**KOReader**
+*KOReader*
 
 Copy the SVG files from `KOReader/icons/` to the `icons` folder in your KOReader data directory, then restart KOReader.
 
-**SimpleUI**
+*SimpleUI*
 
 Install `Solar Colorsoft SimpleUI - Install Pack.zip` from **Settings > Style > Icons > Icon Packs > Install pack from ZIP**.
 
@@ -33,9 +33,3 @@ Solar Colorsoft adaptation: Jeffrey.
 ### Use
 
 Please don't use my Solar Colorsoft modifications commercially. Original icons remain subject to their original licenses.
-
-
-Adaptation and Solar Colorsoft design: Jeffrey.
-Changes include icon selection, color treatment, KOReader/SimpleUI mapping, optical sizing, and custom vector adjustments for color e-ink.
-
-This package contains material from more than one upstream source; the applicable upstream license and attribution remain attached to material derived from each source.
