@@ -34,3 +34,5 @@ Solar Colorsoft adaptation: Jeffrey.
 ### Use
 
 Please don't use my Solar Colorsoft modifications commercially. Original icons remain subject to their original licenses.
+
+© 2026 Jeffrey. Original icons created for Solar Colorsoft may not be used commercially without permission.
