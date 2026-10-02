@@ -8,38 +8,32 @@ A colorful icon pack for KOReader and SimpleUI, designed for color e-ink display
 <br>
 <img src="screenshot-3.png" width="300">
 
-**Contents**
-- 102 KOReader icons
-- 47 SimpleUI icons (44 currently accepted pack filenames + 3 forward-compatibility action icons)
-- Matching SimpleUI install pack included as Solar Colorsoft SimpleUI.zip
+### Install
 
-**SimpleUI compatibility note**
-- The included SimpleUI folder contains all 44 icon-pack filenames accepted by the supplied SimpleUI importer.
-- Three additional action icons are retained for forward compatibility because their actions/settings already exist in the supplied SimpleUI code: sui_action_recent.svg, sui_action_random_document.svg, and sui_action_wifi_toggle_off.svg.
+**KOReader**
 
-**Installation - KOReader**
-1. Find your KOReader data directory.
-2. Copy the SVG files from koreader/icons/ into the /icons folder inside that KOReader data directory. Create /icons if needed.
-3. Fully restart KOReader.
+Copy the SVG files from `KOReader/icons/` to the `icons` folder in your KOReader data directory, then restart KOReader.
 
-The KOReader data directory depends on platform and installation. Examples include the koreader folder on an e-reader's USB storage, the app data/storage location on Android, or the KOReader configuration/data directory on desktop.
+**SimpleUI**
 
-KOReader checks the user icons directory in its data directory before its bundled icon resources, so matching filenames override the built-in icons.
+Install `Solar Colorsoft SimpleUI - Install Pack.zip` from **Settings > Style > Icons > Icon Packs > Install pack from ZIP**.
 
-**Installation - SimpleUI**
-Use SimpleUI > Settings > Style > Icons > Icon Packs > Install pack from ZIP and select the included Solar Colorsoft SimpleUI.zip. SimpleUI also supports placing an icon-pack folder/ZIP in its sui_icons/packs directory.
+### Credits
 
-**Credits and source material**
-Solar Colorsoft combines adapted Solar Icons and original KOReader artwork with custom adjustments for KOReader/SimpleUI and color e-ink.
+Based on Solar Icons by 480 Design and selected KOReader icon resources.
 
-**Solar Icons by 480 Design:**
-https://www.figma.com/community/file/1166831539721848736
-Solar Icons are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
-https://creativecommons.org/licenses/by/4.0/
+Solar Icons:  
+https://github.com/480-Design/Solar-Icon-Set
 
-**KOReader:**
+KOReader:  
 https://github.com/koreader/koreader
-Selected icons in this pack are based on or adapted from KOReader's original icon resources. KOReader is distributed under the GNU Affero General Public License v3.0 (AGPL-3.0). See the KOReader repository for the applicable source and license text.
+
+Solar Colorsoft adaptation: Jeffrey.
+
+### Use
+
+Please don't use my Solar Colorsoft modifications commercially. Original icons remain subject to their original licenses.
+
 
 Adaptation and Solar Colorsoft design: Jeffrey.
 Changes include icon selection, color treatment, KOReader/SimpleUI mapping, optical sizing, and custom vector adjustments for color e-ink.
