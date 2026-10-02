@@ -1,15 +1,13 @@
 **Solar Colorsoft**
 
 A colorful icon pack for KOReader and SimpleUI, designed for color e-ink displays.
-
-
+<br>
 <img src="screenshot-1.png" width="300">
 <br>
 <img src="screenshot-2.png" width="300">
 <br>
 <img src="screenshot-3.png" width="300">
-
-
+<br>
 ### Install
 
 *KOReader*
