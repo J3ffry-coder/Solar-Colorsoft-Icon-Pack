@@ -9,9 +9,9 @@ A colorful icon pack for KOReader and SimpleUI, designed for color e-ink display
 <br>
 <img src="screenshot-3.png" width="250">
 <br>
-<img src="screenshot-4.jpg" width="250">
+<img src="screenshot-4.png" width="250">
 <br>
-<img src="screenshot-5.jpg" width="250">
+<img src="screenshot-5.png" width="250">
 
 ### Install
 
