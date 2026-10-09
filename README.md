@@ -3,15 +3,15 @@
 A colorful icon pack for KOReader and SimpleUI, designed for color e-ink displays.
 
 <br>
-<img src="screenshot-1.png" width="200">
+<img src="screenshot-1.png" width="250">
 <br>
-<img src="screenshot-2.png" width="200">
+<img src="screenshot-2.png" width="250">
 <br>
-<img src="screenshot-3.png" width="200">
+<img src="screenshot-3.png" width="250">
 <br>
-<img src="screenshot-4.jpg" width="200">
+<img src="screenshot-4.jpg" width="250">
 <br>
-<img src="screenshot-5.jpg" width="200">
+<img src="screenshot-5.jpg" width="250">
 
 ### Install
 
