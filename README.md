@@ -19,7 +19,7 @@ First download and extract the main `Solar_Colorsoft.zip` file.
 
 *KOReader*
 
-Copy the SVG files from `KOReader/icons/` to the `icons` folder in your KOReader data directory. If the folder doesn't exist, create it. Finally, restart KOReader.
+Copy the SVG files from `KOReader/` to the `icons` folder in your KOReader data directory. If the folder doesn't exist, create it. Finally, restart KOReader.
 
 *SimpleUI*
 
