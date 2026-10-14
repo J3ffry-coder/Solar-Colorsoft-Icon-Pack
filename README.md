@@ -1,3 +1,6 @@
+*Status (October 14, 2026): This icon pack is considered complete and stable. No further updates are planned. It will continue to work with current KOReader/SimpleUI versions; if KOReader/SimpleUI adds new icons in the future, this pack simply won't cover those."
+
+
 **Solar Colorsoft**
 
 A colorful icon pack for KOReader and SimpleUI, designed for color e-ink displays.
